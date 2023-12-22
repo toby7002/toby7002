@@ -17,11 +17,11 @@ I'm a student and freelance web developer from Vietnam. I'm also a leader of [th
 ### NNSV
 
 - [Next.js](https://nextjs.org/) for frontend.
-- [Next.js](https://nextjs.org/) for backend (Next.js API routes).
+- [Next.js](https://nextjs.org/) for backend (Next.js Server Actions).
 - [Supabase](https://supabase.com/) for database and authentication.
 - [Vercel](https://vercel.com/) for deployment.
 >
-- I've used [Vue](https://vuejs.org/) and [React](https://react.dev/) for static websites.
+- I've used [Vue](https://vuejs.org/) and [Solid](https://solidjs.com/) for static websites.
 - TypeScript > JavaScript.
 - Sometimes, I develop Fabric mods.
 - Kotlin > Java.
