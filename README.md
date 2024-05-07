@@ -1,7 +1,7 @@
 # Nguyen Minh Tho (_Toby_)
 
 ![Windows](https://img.shields.io/badge/Windows-3498db?style=for-the-badge&logo=windows)
-![Kubuntu](https://img.shields.io/badge/Kubuntu-0077C4?style=for-the-badge&logo=kubuntu)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793d1?style=for-the-badge&logo=archlinux&logoColor=ffffff)
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=firefox&logoColor=ffffff)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7?style=for-the-badge&logo=visual-studio-code)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=IntelliJ-IDEA)
